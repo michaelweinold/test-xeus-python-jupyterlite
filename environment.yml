@@ -7,4 +7,4 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
-# - test-wasm-platform-specific-dependencies
+ -  test_wasm_platform_specific_dependencies
