@@ -2,6 +2,9 @@ name: xeus-python-kernel
 channels:
   - https://repo.mamba.pm/emscripten-forge
   - conda-forge
+  - https://conda.anaconda.org/michaelweinold/label/emscripten
+  
 dependencies:
   - xeus-python
   - ipycanvas
+  - test-wasm-platform-specific-dependencies
